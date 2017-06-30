@@ -1,0 +1,14 @@
+h1.noscript{text-align: center;margin-top:250px;}
+.check-browser{display: none;}
+#updateBrower > h1{text-align: center;margin-top:10%;}
+#updateBrower > .updateBrower-box{width:780px;margin-left: auto;margin-top:100px;margin-right: auto;}
+#updateBrower > .updateBrower-box > p{font-size: 16px;}
+#updateBrower > .updateBrower-box > p.bottom{text-align: center;font-size: 14px;color: red;}
+#updateBrower > .updateBrower-box > ul{list-style: none;overflow: hidden;}
+.updateBrower-box > ul > li{margin:0 10px;}
+#updateBrower > .updateBrower-box > ul > li,
+#updateBrower > .updateBrower-box > ul > li > p{width:218px;min-height:210px;float: left;}
+#updateBrower > .updateBrower-box > ul > li.chrome > p{background: url(../img/19.jpg) -85px -35px;}
+#updateBrower > .updateBrower-box > ul > li.firefox > p{background: url(../img/19.jpg) -391px -35px;}
+#updateBrower > .updateBrower-box > ul > li.ie > p{background: url(../img/19.jpg) -700px -39px;}
+#updateBrower > .updateBrower-box > ul > li > a{display: block;text-align: center;margin-top: 208px;font-size: 17px;}
