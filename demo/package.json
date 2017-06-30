@@ -8,7 +8,7 @@
     "build": "cross-env NODE_ENV=production node build/prod.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Tick",
   "license": "ISC",
   "dependencies": {
     "vue": "^2.2.2",
