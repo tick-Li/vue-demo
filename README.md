@@ -1,4 +1,5 @@
 # vue-demo
+
 本项目是基于 webpack vue-router 搭建的单页框架
 
 主要实现强开浏览器、热加载等
